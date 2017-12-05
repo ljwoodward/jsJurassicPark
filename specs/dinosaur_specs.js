@@ -5,11 +5,6 @@ describe('Dinosaur', function () {
 
 });
 
-// it('should be empty at start', function () {
-// 	var bottle = new WaterBottle();
-// 	assert.strictEqual(bottle.volume, 0);
-// });
-
 var dino = new Dinosaur('Stegosaurus', 5);
 
 
